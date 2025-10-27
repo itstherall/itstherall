@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Thereza Aangélica from Brazil<br><br><br>- 📚 I'm currently learning software engineer<br>- ⚡ In my free time I play some sports like a beach tennis, soccer and love swimming! read some books. As a lover of the science fiction, suspense, and horror genres 👻 I found in software engineering a place to practice my passion for solving mysteries and learning to overcome fear to find answers and solutions. As one of the characters from my favorite childhood cartoon would say, "Let's split up and look for clues." - Scooby-Doo. <br>I also love listening to some music like a good eclectic one, however my most listened to rhythms and consequently the ones I love the most are forró, pop/pop rock and R&B.<br></p>
+<p align="left">I'm Thereza Aangélica from Brazil<br><br><br>- 📚 I'm currently learning software engineer<br>- ⚡ In my free time I play some sports like a beach tennis, soccer and love swimming! read some books. As a lover of the science fiction, suspense, and horror genres 👻 I found in software engineering a place to practice my passion for solving mysteries and learning to overcome fear to find answers and solutions. As one of the characters from my favorite childhood cartoon would say, "Let's split up and look for clues." - Scooby-Doo. <br>- 🎵 I also love listening to some music like a good eclectic one, however my most listened to rhythms and consequently the ones I love the most are forró, pop/pop rock and R&B.<br></p>
 
 ###
 
